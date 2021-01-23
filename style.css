@@ -1,0 +1,103 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px 100px;
+}
+.menu{
+    text-decoration: none;
+    padding: 10px 40px;
+    text-align: right;
+    font-size: 22px;
+    font-weight: 600;
+}
+section{
+    height:480px;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+.orange{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    background-color:orange;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: papayawhip;
+    font-size: 20px;
+}
+
+.first{
+    width: 45%;
+    float: left;
+}
+.first img{
+    width:55%;
+    margin-left: 100px;
+}
+
+.second{
+    width: 45%;
+    float:left;
+}
+.second img{
+    width: 55%;
+
+}
+#text2{
+margin-left: 100px;
+margin-top: 100px;
+}
+.bottom{
+    height: 600px;
+}
+.work{
+    text-align: center;
+}
+
+.projects img{
+    width: 100%;
+    
+}
+.projects{
+    width:29%;
+    float:left;
+    margin: 5px 15px;
+    box-shadow: gray 5px 7px 12px;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+.contact{
+    height: 300px;
+    padding-top: 50px;
+}
+.inquiry{
+    width: 60%;
+    height: 50%;
+    background-image: url(stuff/images/shapes/Group_33094_1.png);
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+   
+}
+
+.social{
+    text-align: center;
+}
+.icon{
+    width: 50px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+}
